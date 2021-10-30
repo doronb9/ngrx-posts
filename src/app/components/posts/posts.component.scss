@@ -1,0 +1,13 @@
+.posts-container {
+  display: flex;
+  justify-content: center;
+}
+.posts {
+  width: 70%;
+}
+.post {
+  border-radius: 4px;
+  padding: 1rem;
+  background: aliceblue;
+  margin: 0.5rem;
+}
